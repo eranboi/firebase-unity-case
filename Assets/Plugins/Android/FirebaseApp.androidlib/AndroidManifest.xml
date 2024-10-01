@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.google.firebase.app.unity"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <application android:requestLegacyExternalStorage="true">
+        <meta-data android:name="com.google.android.gms.games.APP_ID" android:value="1:481584127065:android:67647db8c19882aeafe548"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+    </application>
+</manifest>
